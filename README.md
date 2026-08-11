@@ -28,6 +28,7 @@ Java solutions for Data Structures &amp; Algorithms and LeetCode problems.
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0844-backspace-string-compare) |
@@ -43,5 +44,10 @@ Java solutions for Data Structures &amp; Algorithms and LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0844-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/khananas4513/Competitive-Coding-Java-DSA/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
